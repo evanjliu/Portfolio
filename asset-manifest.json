@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.4f3bdee5.css",
-    "main.js": "/Portfolio/static/js/main.b81d2d63.js",
+    "main.js": "/Portfolio/static/js/main.9d0a779b.js",
     "static/js/592.a3b7a829.chunk.js": "/Portfolio/static/js/592.a3b7a829.chunk.js",
     "static/media/mount-fuji-daytime-background.jpg": "/Portfolio/static/media/mount-fuji-daytime-background.df3b46cda39d5a5cc1fd.jpg",
     "index.html": "/Portfolio/index.html",
     "main.4f3bdee5.css.map": "/Portfolio/static/css/main.4f3bdee5.css.map",
-    "main.b81d2d63.js.map": "/Portfolio/static/js/main.b81d2d63.js.map",
+    "main.9d0a779b.js.map": "/Portfolio/static/js/main.9d0a779b.js.map",
     "592.a3b7a829.chunk.js.map": "/Portfolio/static/js/592.a3b7a829.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f3bdee5.css",
-    "static/js/main.b81d2d63.js"
+    "static/js/main.9d0a779b.js"
   ]
 }
