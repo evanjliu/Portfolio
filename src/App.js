@@ -6,7 +6,7 @@ import Navigation from './components/navigation';
 import './App.css';
 
 // Import pages you have completed:
-import HomePage from './pages/HomePage';
+import Portfolio from './pages/Portfolio';
 import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContactPage';
 
@@ -27,7 +27,7 @@ function App() {
         <main>
           <section>
             <Routes>
-              <Route path='' element={<HomePage />} />  
+              <Route path='portfolio' element={<Portfolio />} />  
               <Route path="about" element={<AboutPage />} />    
               <Route path="contact" element={<ContactPage />} />  
 

@@ -1,7 +1,7 @@
 // Import any react icons using following format:
 // import { HiAcademicCap } from "react-icons/hi";
 
-function HomePage(){
+function Portfolio(){
     return (
         <>
         
@@ -14,4 +14,4 @@ function HomePage(){
     )
 }
 
-export default HomePage;
+export default Portfolio;
