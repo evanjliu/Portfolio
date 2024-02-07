@@ -1,0 +1,36 @@
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+body {
+  background-image: url(images/mount-fuji-daytime-background.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: top left;
+  background-repeat: no-repeat;
+}
+
+header, main, footer {
+  max-width: var(--pageWidth);
+  border-radius: 10px;
+}
+header, footer {
+  text-align: center;
+  vertical-align: middle;
+  background-color: var(--darkBlue);
+  color: var(--lightGray)
+}
+header{
+  font-family: 'Noto Serif', serif;
+  font-size: 25px;
+  border-bottom: 3px inset var(--clay);
+  border-radius: 0 0 20% 20%;
+  margin: 0;
+  padding: 1px;
+  max-height: 150px;
+}
