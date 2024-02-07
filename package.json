@@ -12,7 +12,7 @@
     "react-router-dom": "^6.6.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "homepage": "https://evanjliu.github.io/Portfolio"
+    "homepage": "https://evanjliu.github.io/evanjliu.github.io"
   },
   "scripts": {
     "predeploy": "npm run build",
