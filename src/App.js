@@ -20,7 +20,7 @@ function App() {
           <p>
 
           </p>
-          <Navigation />
+                  <Navigation />
         </header>
 
         <main>
@@ -28,15 +28,14 @@ function App() {
             <Routes>
               <Route path='/portfolio' element={<Portfolio />} />  
               <Route path="/about" element={<AboutPage />} />    
-              <Route path="/contact" element={<ContactPage />} />  
-              <Route path='/home' element={<Portfolio />} />  
-              <Route path='/' element={<Portfolio />} />  
+              <Route path="/contact" element={<ContactPage />} />   
+              <Route path='/portfolio' element={<Portfolio />} />  
             </Routes>
           </section>
         </main>
 
         <footer>
-        <p>@copy; Evan Liu 2024</p>
+        <p>@copy; Evan Liu</p>
       </footer>
       </div>
 

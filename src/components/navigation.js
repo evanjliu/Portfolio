@@ -6,7 +6,7 @@ function Navigation() {
   return (
     <nav class="global">
         {/* Add links to Home */}
-        <Link to="/home">Home</Link>
+        <Link to="/portfolio">Home</Link>
         <Link to="/about">About</Link>
         <Link to="/contact">Contact</Link>
     </nav>
