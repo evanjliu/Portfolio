@@ -20,9 +20,8 @@ function App() {
           <p>
 
           </p>
+          <Navigation />
         </header>
-
-        <Navigation />
 
         <main>
           <section>
@@ -37,7 +36,7 @@ function App() {
         </main>
 
         <footer>
-        <p>@copy; Evan Liu</p>
+        <p>@copy; Evan Liu 2024</p>
       </footer>
       </div>
 

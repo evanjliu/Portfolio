@@ -2,6 +2,7 @@
   "homepage": "https://evanjliu.github.io/Portfolio",
   "name": "portfolio-evanliu",
   "version": "0.1.0",
+  "description": "Portfolio website for Evan Liu",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

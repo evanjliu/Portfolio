@@ -6,10 +6,13 @@ function Portfolio(){
         <>
         
         <h1>Home</h1>
-        <article>
+        <section id="intro">
+            
+        </section>
 
-        </article>
+        <section id="">
 
+        </section>
         </>
     )
 }

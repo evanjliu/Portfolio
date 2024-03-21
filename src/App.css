@@ -6,13 +6,23 @@
     transform: rotate(360deg);
   }
 }
+/*
+  Variables
+*/
+:root {
+  --blue: blue;
+}
 
+/*  
+  Main, body, header, footer
+*/
 body {
   background-image: url(images/mount-fuji-daytime-background.jpg);
   background-size: cover;
   background-attachment: fixed;
   background-position: top left;
   background-repeat: no-repeat;
+  height: 100vh;
 }
 
 header, main, footer {
@@ -34,3 +44,17 @@ header{
   padding: 1px;
   max-height: 150px;
 }
+
+/*
+  Navigation
+*/
+
+
+/*
+  Classes
+*/
+
+
+/*
+  IDs
+*/
