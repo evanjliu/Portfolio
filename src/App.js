@@ -9,6 +9,7 @@ import './App.css';
 import Portfolio from './pages/Portfolio';
 import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContactPage';
+import PastProjects from './pages/PastProjects'
 
 function App() {
   return (
@@ -26,10 +27,10 @@ function App() {
         <main>
           <section>
             <Routes>
-              <Route path='/portfolio' element={<Portfolio />} />  
               <Route path="/about" element={<AboutPage />} />    
+              <Route path="/projects" element={<PastProjects />} />   
               <Route path="/contact" element={<ContactPage />} />   
-              <Route path='/portfolio' element={<Portfolio />} />  
+              <Route path='/' element={<Portfolio />} />  
             </Routes>
           </section>
         </main>
