@@ -1,0 +1,43 @@
+[
+
+  {
+    "title": "Tarpaulin API for Course Management and Student Enrollment",
+    "imageSrc": [
+      "projects/project.png"
+    ],
+    "description": "This is a project that is A Flask-based API that manages users, courses, and student enrollments with robust authentication and resource permissions. This project leverages Google Cloud Datastore for data storage, Google Cloud Storage for file handling, and Auth0 for user authentication and JWT management.",
+    "technologies": ["Python", "Flask", "Auth0 (OAuth 2.0)", "Google Cloud Platform", "Google Cloud Datastore/Firestore", "Google Cloud Storage"],
+    "demo": null,
+    "source": "https://github.com/evanjliu/tarpaulin-api"
+  },
+  {
+    "title": "Spotify Playlist Maker (Web Application)",
+    "imageSrc": [
+      "projects/project.png"
+    ],
+    "description": "An application designed to create custom Spotify playlists by leveraging Spotify's API. Users can compile their favorite song genres into personalized playlists. This project was built to explore modern web development frameworks and implement a microservices architecture, separating functionalities into modular services. The purpose of this project was to explore API integration while connecting my microservices with those of my peers' projects, fostering collaboration and interoperability.",
+    "technologies": ["React", "JavaScript", "Node.js", "Microservices", "Spotify API", "ZeroMQ"],
+    "demo": null,
+    "source": "https://github.com/evanjliu/spotify-playlist-maker-webapp"
+  },
+  {
+    "title": "Treasure Hunter Lite (Android Mobile Application)",
+    "imageSrc": [
+      "projects/project.png"
+    ],
+    "description": "This is an interactive Android app that lets the users treasure hunt using clues of famous locations from my hometown, Reno, Nevada. The app gives clues to real-life locations to lead players to famous landmarks in Reno, Nevada. The app uses location services to determine when the player is at the correct location, creating a fun and educational clue-hunting experience.",
+    "technologies": ["Kotlin", "Jetpack Compose", "Google Play Location Services", "Geofences"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "chinese-tractor-card-game-tracker",
+    "imageSrc": [
+      "projects/project.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "technologies": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

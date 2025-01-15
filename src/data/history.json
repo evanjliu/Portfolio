@@ -1,0 +1,51 @@
+[
+  {
+    "role": "Senior Research Analyst",
+    "organization": "Charles River Laboratories",
+    "startDate": "Oct, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Consistently achieved a near 100% success rate in meeting study timelines",
+      "Functioned as a project scientist on specialized initiatives.",
+      "Spearheaded special, non-routine projects and developed innovative techniques to expand department capabilities.",
+      "Updated standard operating procedures (SOPs) and authored new procedures to align with evolving laboratory practices."
+    ],
+    "imageSrc": ["history/google.png"]
+  },
+  {
+    "role": "Research Analyst I to III",
+    "organization": "Charles River Laboratories",
+    "startDate": "Oct, 2021",
+    "endDate": "Oct, 2024",
+    "experiences": [
+      "Served as the lead/primary technician for basic to highly complex studies, managing multiple projects simultaneously",
+      "Developed and implemented laboratory procedures, ensuring adherence to GLP and GCLP practices",
+      "Mentored less experienced staff, fostering skill development and team efficiency.",
+      "Developed new procedures for qPCR, RT-qPCR, and ddPCR."
+    ],
+    "imageSrc": ["history/microsoft.png"]
+  },
+  {
+    "role": "Research Assistant",
+    "organization": "University of Nevada Reno",
+    "startDate": "Dec, 2019",
+    "endDate": "Dec, 2020",
+    "experiences": [
+      "Statistical data analysis and created visual representations through programs such as Excel and CLC Workbench.",
+      "Disected and analyzed tissues  of small insects.",
+      "Conducted qRT-PCR and PCR gene expression experiments to find sutable genetic targets for new pesticides."
+    ],
+    "imageSrc": ["history/netflix.png"]
+  },
+  {
+    "role": "Math Tutor",
+    "organization": "Mathnasium",
+    "startDate": "Sep, 2018",
+    "endDate": "Oct, 2021",
+    "experiences": [
+      "Tutored students of all ages in K-12 math.",
+      "Math skills ranged from elementary arithmatic to calculus."
+    ],
+    "imageSrc": ["history/microsoft.png"]
+  }
+]
